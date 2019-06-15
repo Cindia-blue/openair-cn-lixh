@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -Wall -g -O0  -shared  -o ../dict_Sd.fdx CMakeFiles/dict_Sd.dir/dict_Sd.c.o 

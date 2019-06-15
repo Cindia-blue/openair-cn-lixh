@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -Wall -g -O0  -shared  -o ../dict_NAS.fdx CMakeFiles/dict_NAS.dir/dict_NAS.c.o 

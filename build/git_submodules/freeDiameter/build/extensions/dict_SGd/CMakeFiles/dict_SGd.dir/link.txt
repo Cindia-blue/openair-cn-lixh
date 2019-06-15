@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -Wall -g -O0  -shared  -o ../dict_SGd.fdx CMakeFiles/dict_SGd.dir/dict_SGd.c.o 

@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -Wall -g -O0  -shared  -o ../dict_St.fdx CMakeFiles/dict_St.dir/dict_St.c.o 

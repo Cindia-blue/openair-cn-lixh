@@ -1,0 +1,1 @@
+/usr/bin/cc -Wall -g -O0  -rdynamic CMakeFiles/freeDiameterd.dir/main.c.o  -o freeDiameterd-1.2.1 -Wl,-rpath,/home/lixh/v0.1.0/openair-cn/build/git_submodules/freeDiameter/build/libfdcore:/home/lixh/v0.1.0/openair-cn/build/git_submodules/freeDiameter/build/libfdproto: ../libfdcore/libfdcore.so.1.2.1 -lgnutls ../libfdproto/libfdproto.so.1.2.1 -lpthread 

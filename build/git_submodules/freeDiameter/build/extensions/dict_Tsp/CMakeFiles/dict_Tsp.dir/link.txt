@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -Wall -g -O0  -shared  -o ../dict_Tsp.fdx CMakeFiles/dict_Tsp.dir/dict_Tsp.c.o 

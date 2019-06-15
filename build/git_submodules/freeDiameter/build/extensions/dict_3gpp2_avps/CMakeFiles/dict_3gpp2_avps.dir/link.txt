@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -Wall -g -O0  -shared  -o ../dict_3gpp2_avps.fdx CMakeFiles/dict_3gpp2_avps.dir/dict_3gpp2_avps.c.o 

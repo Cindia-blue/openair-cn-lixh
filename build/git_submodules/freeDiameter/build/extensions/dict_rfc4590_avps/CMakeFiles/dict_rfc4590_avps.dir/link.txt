@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -Wall -g -O0  -shared  -o ../dict_rfc4590_avps.fdx CMakeFiles/dict_rfc4590_avps.dir/dict_rfc4590_avps.c.o 

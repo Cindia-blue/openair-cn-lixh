@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -Wall -g -O0  -shared  -o ../dict_draftload_avps.fdx CMakeFiles/dict_draftload_avps.dir/dict_draftload_avps.c.o 

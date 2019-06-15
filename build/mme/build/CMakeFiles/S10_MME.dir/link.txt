@@ -1,0 +1,2 @@
+/usr/bin/ar qc libS10_MME.a  CMakeFiles/S10_MME.dir/home/lixh/v0.1.0/openair-cn/src/s10/s10_common.c.o CMakeFiles/S10_MME.dir/home/lixh/v0.1.0/openair-cn/src/s10/s10_ie_formatter.c.o CMakeFiles/S10_MME.dir/home/lixh/v0.1.0/openair-cn/src/s10/s10_mme_task.c.o CMakeFiles/S10_MME.dir/home/lixh/v0.1.0/openair-cn/src/s10/s10_mme_session_manager.c.o
+/usr/bin/ranlib libS10_MME.a

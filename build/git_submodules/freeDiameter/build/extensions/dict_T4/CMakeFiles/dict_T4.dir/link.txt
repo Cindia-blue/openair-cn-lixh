@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -Wall -g -O0  -shared  -o ../dict_T4.fdx CMakeFiles/dict_T4.dir/dict_T4.c.o 

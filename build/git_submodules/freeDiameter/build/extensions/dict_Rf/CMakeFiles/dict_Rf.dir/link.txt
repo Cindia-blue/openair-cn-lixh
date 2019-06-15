@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -Wall -g -O0  -shared  -o ../dict_Rf.fdx CMakeFiles/dict_Rf.dir/dict_Rf.c.o 

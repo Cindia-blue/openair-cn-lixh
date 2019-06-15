@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -Wall -g -O0  -shared  -o ../dict_Gx.fdx CMakeFiles/dict_Gx.dir/dict_Gx.c.o 

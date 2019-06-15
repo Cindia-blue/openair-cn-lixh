@@ -1,0 +1,2 @@
+/usr/bin/ar qc libITTI.a  CMakeFiles/ITTI.dir/home/lixh/v0.1.0/openair-cn/src/common/itti/intertask_interface.c.o CMakeFiles/ITTI.dir/home/lixh/v0.1.0/openair-cn/src/common/itti/backtrace.c.o CMakeFiles/ITTI.dir/home/lixh/v0.1.0/openair-cn/src/common/itti/memory_pools.c.o CMakeFiles/ITTI.dir/home/lixh/v0.1.0/openair-cn/src/common/itti/signals.c.o CMakeFiles/ITTI.dir/home/lixh/v0.1.0/openair-cn/src/common/itti/timer.c.o
+/usr/bin/ranlib libITTI.a

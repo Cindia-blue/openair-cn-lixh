@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lixh/v0.1.0/openair-cn/build/git_submodules/freeDiameter/libfdproto/hashlist.cpp
+string
+-
+unordered_map
+-
+

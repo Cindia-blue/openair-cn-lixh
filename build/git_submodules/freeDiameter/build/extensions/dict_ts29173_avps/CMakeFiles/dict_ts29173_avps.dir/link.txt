@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -Wall -g -O0  -shared  -o ../dict_ts29173_avps.fdx CMakeFiles/dict_ts29173_avps.dir/dict_ts29173_avps.c.o 

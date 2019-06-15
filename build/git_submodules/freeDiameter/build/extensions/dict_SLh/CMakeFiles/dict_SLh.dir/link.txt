@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -Wall -g -O0  -shared  -o ../dict_SLh.fdx CMakeFiles/dict_SLh.dir/dict_SLh.c.o 

@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -Wall -g -O0  -shared  -o ../dict_S6c.fdx CMakeFiles/dict_S6c.dir/dict_S6c.c.o 
